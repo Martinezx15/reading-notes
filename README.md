@@ -9,7 +9,7 @@ Growth Mindset means
 
 - Reminder 1 
 
-- Reminder 3
+- Reminder 2
 
 - Reminder 3
  
