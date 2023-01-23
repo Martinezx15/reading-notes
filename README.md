@@ -12,4 +12,5 @@ Growth Mindset means
 - Reminder 3
 
 - Reminder 3
+ 
 link to my GitHub profile  https://martinezx15.github.io/reading-notes/
