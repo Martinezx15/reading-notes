@@ -5,4 +5,4 @@ Here are my notes about markdown
 
 * Note 2
 
-* note 3
+* Note 3
