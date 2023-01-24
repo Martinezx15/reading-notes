@@ -9,15 +9,15 @@ and will become an eficient on anything they put their mind on.
 
 ## Reminders to stay in a growth mindset:
 
-####- Reminder 1 
+#### - Reminder 1 
 If you get stuck seek help from a classmate, 
 skill are acquired through hard work and dedication
 
-####- Reminder 2
+#### - Reminder 2
 Not always everything will come out perfect, 
 some time you have to work a little extra to make it righ
 
-####- Reminder 3
+#### - Reminder 3
  Take chances, seek new challenges and 
  always be professional and respectful. 
  
