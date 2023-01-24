@@ -1,7 +1,7 @@
 # reading-notes
 Reading Journal for Code Fellows
 
-My Name is Alexander and I will learn learn coding with code fellows
+**My Name is Alexander and I will learn learn coding with code fellows**
 
 Growth Mindset means: a person that gives 100 % effort, practicing and researching anything 
 he or she is trying to learn and look for outside help when needed will pass any challenge 
