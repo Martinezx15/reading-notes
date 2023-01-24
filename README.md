@@ -27,4 +27,5 @@ some time you have to work a little extra to make it righ
  Take chances, seek new challenges and 
  always be professional and respectful. 
  
- Link to my GitHub profile    https://martinezx15.github.io/reading-notes/    
+ Link to my GitHub profile  https://martinezx15.github.io/reading-notes/   
+![M1A2 SEP Tank](https://user-images.githubusercontent.com/122466818/214397184-08c26a30-2d16-44c1-b320-a8769dc23e65.jpg)
