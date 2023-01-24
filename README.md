@@ -21,4 +21,4 @@ some time you have to work a little extra to make it righ
  Take chances, seek new challenges and 
  always be professional and respectful. 
  
- Link to my GitHub profile   https://martinezx15/reading-notes/
+ Link to my GitHub profile    https://martinezx15.github.io/reading-notes/
