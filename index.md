@@ -13,19 +13,19 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
  ## **Course 102**
  <p><a href="https://martinezx15.github.io/reading-notes/102note1.md">Reading Notes 01</a></p>
  
- Reading Notes 02
+ <p><a href="https://martinezx15.github.io/reading-notes/102note2.md">Reading Notes 02</a></p>
  
- Reading Notes 03
+ <p><a href="https://martinezx15.github.io/reading-notes/102note3.md">Reading Notes 03</a></p>
+  
+ <p><a href="https://martinezx15.github.io/reading-notes/102note4.md">Reading Notes 04</a></p>
  
- Reading Notes 04
+  <p><a href="https://martinezx15.github.io/reading-notes/102note5.md">Reading Notes 05</a></p>
  
- Reading Notes 05
+  <p><a href="https://martinezx15.github.io/reading-notes/102note6.md">Reading Notes 06</a></p>
  
- Reading Notes 06
+  <p><a href="https://martinezx15.github.io/reading-notes/102note7.md">Reading Notes 07</a></p>
  
- Reading Notes 07
- 
- Reading Notes 08
+  <p><a href="https://martinezx15.github.io/reading-notes/102note8.md">Reading Notes 08</a></p>
  
  ## **Course 201**
  Reading Notes 01
