@@ -16,18 +16,12 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
         <link>
               <p><a href="https://martinezx15.github.io/reading-notes/102note1.html">Reading Notes 01</a></p>
               <p><a href="https://martinezx15.github.io/reading-notes/102note2.html">Reading Notes 02</a></p>
- 
               <p><a href="https://martinezx15.github.io/reading-notes/102note3.html">Reading Notes 03</a></p>
-  
               <p><a href="https://martinezx15.github.io/reading-notes/102note4.md">Reading Notes 04</a></p>
- 
               <p><a href="https://martinezx15.github.io/reading-notes/102note5.md">Reading Notes 05</a></p>
- 
               <p><a href="https://martinezx15.github.io/reading-notes/102note6.md">Reading Notes 06</a></p>
- 
               <p><a href="https://martinezx15.github.io/reading-notes/102note7.md">Reading Notes 07</a></p>
- 
-  <p><a href="https://martinezx15.github.io/reading-notes/102note8.md">Reading Notes 08</a></p>
+              <p><a href="https://martinezx15.github.io/reading-notes/102note8.md">Reading Notes 08</a></p>
       </link> 
  </nav>
  ## **Course 201**
