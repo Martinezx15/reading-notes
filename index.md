@@ -11,7 +11,7 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
  
  # **Table of Contents**
  ## **Course 102**
- <p><a href="/reading-notes/102/102_Reading_01.html">Reading Notes 01</a></p>
+ <p><a href="https://martinezx15.github.io/reading-notes/102note1.md">Reading Notes 01</a></p>
  
  Reading Notes 02
  
