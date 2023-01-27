@@ -17,7 +17,7 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
               <p><a href="https://martinezx15.github.io/reading-notes/102note1.html">Reading Notes 01</a></p>
               <p><a href="https://martinezx15.github.io/reading-notes/102note2.html">Reading Notes 02</a></p>
  
-              <p><a href="https://martinezx15.github.io/reading-notes/102note3.md">Reading Notes 03</a></p>
+              <p><a href="https://martinezx15.github.io/reading-notes/102note3.html">Reading Notes 03</a></p>
   
               <p><a href="https://martinezx15.github.io/reading-notes/102note4.md">Reading Notes 04</a></p>
  
