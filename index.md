@@ -27,36 +27,36 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
 <h1>Course 201</h1>
    <nav>
         <link>
-
- Reading Notes 01
+              
+ <p><a href="">Reading Notes 01</a></p>
  
- Reading Notes 02
+ <p><a href="">Reading Notes 02</a></p>
  
- Reading Notes 03
+ <p><a href="">Reading Notes 03</a></p>
  
- Reading Notes 04
+ <p><a href="">Reading Notes 04</a></p>
  
- Reading Notes 05
+ <p><a href="">Reading Notes 05</a></p>
  
- Reading Notes 06
+ <p><a href="">Reading Notes 06</a></p>
  
- Reading Notes 07
+ <p><a href="">Reading Notes 07</a></p>
  
- Reading Notes 08
+ <p><a href="">Reading Notes 08</a></p>
  
- Reading Notes 09
+ <p><a href="">Reading Notes 09</a></p>
  
- Reading Notes 10
+ <p><a href="">Reading Notes 10</a></p>
  
- Reading Notes 11
+ <p><a href="">Reading Notes 11</a></p>
  
- Reading Notes 12
+ <p><a href="">Reading Notes 12</a></p>
  
- Reading Notes 13
+ <p><a href="">Reading Notes 13</a></p>
  
- Reading Notes 14
+ <p><a href="">Reading Notes 14</a></p>
  
- Reading Notes 15
+ <p><a href="">Reading Notes 15</a></p>
   </link> 
          </nav>
        
