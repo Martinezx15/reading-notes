@@ -11,6 +11,9 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
  
  # **Table of Contents**
  ## **Course 102**
+ 
+  <nav>
+        <link>
  <p><a href="https://martinezx15.github.io/reading-notes/102note1.md">Reading Notes 01</a></p>
  
  <p><a href="https://martinezx15.github.io/reading-notes/102note2.md">Reading Notes 02</a></p>
@@ -26,8 +29,12 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
   <p><a href="https://martinezx15.github.io/reading-notes/102note7.md">Reading Notes 07</a></p>
  
   <p><a href="https://martinezx15.github.io/reading-notes/102note8.md">Reading Notes 08</a></p>
- 
+ </link> 
+         </nav>
  ## **Course 201**
+   <nav>
+        <link>
+
  Reading Notes 01
  
  Reading Notes 02
@@ -57,8 +64,11 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
  Reading Notes 14
  
  Reading Notes 15
- 
- 
+  </link> 
+         </nav>
+       
+            <li><a href="">Fish Species</a></li>
+           
  
 
 Link to my GitHub profile https://martinezx15.github.io/reading-notes/  
