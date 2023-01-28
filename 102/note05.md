@@ -33,7 +33,8 @@ When designing for the screen you need to know where all the information is goin
   
  ## **Wireframe examples**
 Before you start designing the wireframes of your own app or product, take a look at some examples of wireframes. This will give you some inspiration for your own wireframes, as well as giving you an idea of the variety of ways of creating them. Some people like to draw their wireframes by hand, others feel more comfortable using software like Invision, or Balsamiq to create theirs. We’ll go through some of the tools you can use to create wireframes shortly, but it’s important to emphasize that how you make yours is up to you: some people feel more creative when sat at their computer, while others prefer to have a pen and paper in hand.
-That said, for complete beginners, bear in mind the following when deciding on your wireframe creation process:
+
+      That said, for complete beginners, bear in mind the following when deciding on your wireframe creation process:
 Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product.     
 With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper—than changes deemed necessary after coding is under way.
 Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.
@@ -77,6 +78,7 @@ Add detail in the way you would naturally process a screen, or the page of a boo
 Once you’ve documented and acted upon the feedback from your first prototype, you can start developing your high-fidelity prototypes. There are lots of slick tools out there for this, from Proto.io to Adobe XD and Framer, but the most well-known are Sketch and the browser-based, new(ish) kid-on-the-block, Figma. Once you’ve developed your wireframes in Sketch, you can import them into the industry-leading prototyping tool InVision (which, incidentally, we built a course in conjunction with) and interlink your screens for a second round of high-fidelity user testing. It’s at this point that we’ve most certainly crossed from wireframing to prototyping. To find out more about that, you’ll have to read another article.  
   
 ## **How to make your wireframe good: Three key principles**
+      
 ## **1. Clarity** 
 Your wireframe needs to answer the questions of what that site page is, what the user can do there, and if it satisfies their needs. Your wireframe is an aid for you to visualize the layout of your site page and ensure that the user’s most important questions are answered and goals are achievable without being distracted by more aesthetic considerations.
   
