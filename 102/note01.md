@@ -29,7 +29,7 @@ Use `git status` to list all new or modified files that haven't yet been committ
 - Ignoring Markdown formatting: You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character. Let's rename \*our-new-project\* to \*our-old-project\*.r
 
 ## ***Things I want to know more about***
-- Markdown [ ]
-- HTML [ ]
-- CSS [ ]
-- Java [ ]
+- [ ]Markdown
+- [ ]HTML
+- [ ]CSS
+- [ ]Java
