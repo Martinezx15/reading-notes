@@ -11,21 +11,21 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
 ## **Table of Contents**
 ## **Course 102**
 
-[102Reading Notes 01](https://martinezx15.github.io/reading-notes/102note01.md)
+[102Reading Notes 01]https://martinezx15.github.io/reading-notes/()
 
-[102Reading Notes 02](https://martinezx15.github.io/reading-notes/102note02.md)
+[102Reading Notes 02](https://martinezx15.github.io/reading-notes/)
 
-[102Reading Notes 03](https://martinezx15.github.io/reading-notes/102note03.md) 
+[102Reading Notes 03](https://martinezx15.github.io/reading-notes/) 
 
-[102Reading Notes 04](https://martinezx15.github.io/reading-notes/102note04.md)
+[102Reading Notes 04](https://martinezx15.github.io/reading-notes/)
 
-[102Reading Notes 05](https://martinezx15.github.io/reading-notes/102note05.md)
+[102Reading Notes 05](https://martinezx15.github.io/reading-notes/)
 
-[102Reading Notes 06](https://martinezx15.github.io/reading-notes/102note06.md)
+[102Reading Notes 06](https://martinezx15.github.io/reading-notes/)
 
-[102Reading Notes 07](https://martinezx15.github.io/reading-notes/102note07.md)
+[102Reading Notes 07](https://martinezx15.github.io/reading-notes/)
 
-[102Reading Notes 08](https://martinezx15.github.io/reading-notes/102note08.md)
+[102Reading Notes 08](https://martinezx15.github.io/reading-notes/)
 
 
 ## **201Courses**
