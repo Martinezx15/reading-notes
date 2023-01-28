@@ -44,21 +44,21 @@ I am a veteran served in the US Army for 12 years my job in the army was a Armor
 
 [201Reading Notes 07](https://martinezx15.github.io/reading-notes/102note07.md)
 
-                                  [201Reading Notes 08](https://martinezx15.github.io/reading-notes/102note08.md)
+[201Reading Notes 08](https://martinezx15.github.io/reading-notes/102note08.md)
 
-                                  [201Reading Notes 09](https://martinezx15.github.io/reading-notes/102note09.md)
+[201Reading Notes 09](https://martinezx15.github.io/reading-notes/102note09.md)
 
-                                  [201Reading Notes 10](https://martinezx15.github.io/reading-notes/102note10.md)
+[201Reading Notes 10](https://martinezx15.github.io/reading-notes/102note10.md)
 
-                                  [201Reading Notes 11](https://martinezx15.github.io/reading-notes/102note11.md)
+[201Reading Notes 11](https://martinezx15.github.io/reading-notes/102note11.md)
  
-                                  [201Reading Notes 12](https://martinezx15.github.io/reading-notes/102note12.md)
+[201Reading Notes 12](https://martinezx15.github.io/reading-notes/102note12.md)
 
-                                  [201Reading Notes 13](https://martinezx15.github.io/reading-notes/102note13.md)
+[201Reading Notes 13](https://martinezx15.github.io/reading-notes/102note13.md)
 
-                                  [201Reading Notes 14](https://martinezx15.github.io/reading-notes/102note14.md)
+[201Reading Notes 14](https://martinezx15.github.io/reading-notes/102note14.md)
 
-                                  [201Reading Notes 51](https://martinezx15.github.io/reading-notes/102note15.md)
+[201Reading Notes 51](https://martinezx15.github.io/reading-notes/102note15.md)
 
         
 [Link to my GitHub profile](https://martinezx15.github.io/reading-notes/)  
