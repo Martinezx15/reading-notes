@@ -26,18 +26,16 @@ You can either embed the JavaScript code directly inside the HTML file, or you c
 
 ## **Input Output**
 The very first thing we need to learn is how to interact with the JavaScript code running in the browse. There are a number of way JavaScript can display text for the user (output). The most simple one is by using the alert function:
-alert
+## **alert**
 This will show a pop-up in the browser with the text. (You can click on Try! that will open the specific script in a separate window.) The alert() function is actually rarely used, but it is an easy way to show the use of JavaScript.
-document.write
+## **document.write**
 This function was often used when one wanted to change what's shown. Today, there are some more advanced techniques.
-console.log
+## **console.log**
 Finally let's see how developers usually print out debugging information.
 In order to see the console you'll need to open it.
 prompt The fist one is called prompt. It will show a pop-up window with the text provided as the first parameter and with a textbox the user can fill in. When the user presses OK, the value in the text box will be returned by the prompt() function. Then, in this example we use the document.write method to update the html with the text.
-confirm
-The other pop-up is not really an input method. It allows the developer to ask a Yes/No question. Calling the confirm() function will show a pop-up window with the provided texts and with two buttons. If the user presses OK the confirm() function will return true, if the user presses cancel or hits the ESC key, the function will return false.
-
-Of course in order for this to make more sense you'll have to understand what true and false really mean and what this if - else construct does. If you have programming background then you probably already understand the code, and even if you don't have programming background you might figure out.
+## **confirm**
+The other pop-up is not really an input method. It allows the developer to ask a Yes/No question. Calling the confirm() function will show a pop-up window with the provided texts and with two buttons. If the user presses OK the confirm() function will return true, if the user presses cancel or hits the ESC key, the function will return false.Of course in order for this to make more sense you'll have to understand what true and false really mean and what this if - else construct does. If you have programming background then you probably already understand the code, and even if you don't have programming background you might figure out.
 That code can basically be translated to the following English sentence:
 If confirm returned true, print "Hello World", otherwise print "OK, I won't print it."
 Or even better:
