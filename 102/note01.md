@@ -1,4 +1,4 @@
-# **MARKDOWN**
+# ***MARKDOWN***
 ## **Here are my notes about markdown**
 :computer: :desktop_computer
 Markdown was designed to make it easier for web writers to work with articles in an age where web publishing required writing HTML. So, the intent was to make it simpler to interface with text formatting in HTML. It wasn’t the first simplified syntax on the planet, but it was the one that gained the most traction over the years. Today, the usage of Markdown has grown far beyond its design intent to be a simpler way to read and write HTML, to become an approach of marking up plain text in a lot of different contexts. Sure, technologies and ideas can evolve beyond their intent, but the tension in today’s use of Markdown can be traced to this origin and the constraints put into its design. (www.smashingmagazine.com)
@@ -28,7 +28,7 @@ Use `git status` to list all new or modified files that haven't yet been committ
 - Hiding content with comments: You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
 - Ignoring Markdown formatting: You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character. Let's rename \*our-new-project\* to \*our-old-project\*.r
 
-## **Things I want to know more about**
+## ***Things I want to know more about***
 - Markdown
 - HTML
 - CSS
