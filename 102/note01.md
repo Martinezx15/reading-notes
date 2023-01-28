@@ -27,7 +27,8 @@ Use `git status` to list all new or modified files that haven't yet been committ
 - Footnotes: You can add footnotes to your content by using this bracket syntax: Here is a simple footnote[^1].
 - Hiding content with comments: You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
 - Ignoring Markdown formatting: You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character. Let's rename \*our-new-project\* to \*our-old-project\*.r
-
+![640x427-StripedBass-NOAAFisheries](https://user-images.githubusercontent.com/122466818/215293963-19527973-dd50-4aa9-b6a7-071ec23272db.png)
+`#0d1117`
 ## ***Things I want to know more about***
 - [x]\: Markdown
 - [ ]\: HTML
