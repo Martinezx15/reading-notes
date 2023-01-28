@@ -42,35 +42,7 @@ That code can basically be translated to the following English sentence:
 If confirm returned true, print "Hello World", otherwise print "OK, I won't print it."
 Or even better:
 
-
-
-
-  
 ## **Things I want to know more about**
 - Script loading strategies
 - async and defer
 - What went wrong? Troubleshooting JavaScrip
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
