@@ -34,13 +34,15 @@ When designing for the screen you need to know where all the information is goin
  ## **Wireframe examples**
 Before you start designing the wireframes of your own app or product, take a look at some examples of wireframes. This will give you some inspiration for your own wireframes, as well as giving you an idea of the variety of ways of creating them. Some people like to draw their wireframes by hand, others feel more comfortable using software like Invision, or Balsamiq to create theirs. We’ll go through some of the tools you can use to create wireframes shortly, but it’s important to emphasize that how you make yours is up to you: some people feel more creative when sat at their computer, while others prefer to have a pen and paper in hand.
 That said, for complete beginners, bear in mind the following when deciding on your wireframe creation process:
-Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product.
+Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product.     
 With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper—than changes deemed necessary after coding is under way.
 Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.
-It’s likely to be to your advantage to start off hand-drawing your wireframes before executing more detailed versions using an online app or software. The following wireframes should give you a good idea of how information can be organized on the screen.   
+It’s likely to be to your advantage to start off hand-drawing your wireframes before executing more detailed versions using an online app or software. The following wireframes should give you a good idea of how information can be organized on the screen. 
+      
 ## **Things to consider before you start wireframing**  
 As we mentioned above, different UX designers approach the task of wireframing in different ways. Some like to draw by hand, while others like to use apps or tools found online. But more often than not, the decision to use online tools or to wireframe by hand, and the process used to get to from wireframe to code, is less related to the individual preference of the UX Designer, and much more related to what approach the particular situation requires. It depends largely on how much emphasis there is on visual design in a project, and how much uncertainty there is with respect to what is being designed.
-Here are a number of ways different designers can structure the process from design to implementation:
+      
+## **Here are a number of ways different designers can structure the process from design to implementation:**
 - Wireframe > Interactive Prototype > Visual > Design
 - Sketch > Code
 - Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
